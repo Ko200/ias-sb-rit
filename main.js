@@ -19,9 +19,9 @@ count();
 
 
 window.onload=function(){
-    countme('event-count',100);
-    countme('award-count',50);
-    countme('member-count',256);
+    countme('event-count',30);
+    countme('award-count',3);
+    countme('member-count',60);
 }
 
 $(document).ready(function () {
